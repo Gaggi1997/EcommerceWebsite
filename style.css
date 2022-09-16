@@ -334,7 +334,7 @@ footer .footer-bottom{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	max-width: 40em;
+	max-width: 30em;
 	padding: 0 20px;
 }
 .image-gallery img{
@@ -347,7 +347,7 @@ footer .footer-bottom{
 	margin-top: 5px;
 }
 .small-images img{
-	width: 8vw;
+	width: 6vw;
 }
 .gallery-desc{
 	max-width: 30em;
@@ -582,6 +582,7 @@ footer .row-1{
 }
 .image-gallery{
 	margin-bottom:0.5rem ;
+	width: 25em;
 }
 .gallery-desc select{
 	margin: 5px 0;
